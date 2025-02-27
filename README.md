@@ -1,5 +1,8 @@
 # .github
 ## In the ’50’s Hatsumi Sensei met Takamatsu. One rainy morning under the maple trees, Soke bound that connection to all of the Bujinkan ##
+
+<img fetchpriority="high" decoding="async" width="852" height="479" src="https://www.rojodojo.com/wp-content/uploads/2015/01/SokeSpeakingSmall.png" class="attachment-large size-large wp-post-image" alt="Masaaki Hatsumi met Takamatsu and bound that connection to the Bujinkan" srcset="https://www.rojodojo.com/wp-content/uploads/2015/01/SokeSpeakingSmall.png 960w, https://www.rojodojo.com/wp-content/uploads/2015/01/SokeSpeakingSmall-300x169.png 300w, https://www.rojodojo.com/wp-content/uploads/2015/01/SokeSpeakingSmall-267x150.png 267w" sizes="(max-width: 852px) 100vw, 852px" />
+
 I had a simple plan to teach 片腕遁走型 Kata Ude Tonsō Gata. But during my preparations for class that night, I was overcome with gratitude toward my teachers. It seems there was a secret power bound up in this kata.
 
 It can be described as 師逢和瀬 Shiawase. Let me tell you how I discovered it.
